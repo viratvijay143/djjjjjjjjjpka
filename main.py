@@ -33,7 +33,7 @@ import os
 from pyrogram import Client, filters
 #Bot Created by @NtrRazYt
 # Define the owner ID
-owner_id = 7383598092
+owner_id = 5498931783
 
 # Initialize bot with environment variables
 bot = Client(
